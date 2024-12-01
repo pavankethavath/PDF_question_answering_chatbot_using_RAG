@@ -41,11 +41,11 @@ Custom retriever and postprocessor for improved accuracy
     streamlit run app.py
 
 ## Upload a PDF and Start Querying
- ![Home Screen](images/home.png)
+ 
 - Upload your desired PDF file through the application interface.
- ![Home Screen](images/upload.png)
+  ![Home Screen](/home.png)
 - Enter questions and retrieve contextually accurate responses.
- ![Home Screen](images/answer.png)
+ ![Results](/result.png)
 
 ---
 
